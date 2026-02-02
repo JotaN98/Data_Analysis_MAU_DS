@@ -38,27 +38,6 @@ The analysis is written in **Python**. You will need the following libraries ins
 * `statsmodels` (Statistical regression/OLS)
 * `wbgapi` (World Bank API wrapper)
 
-## 🚀 Installation & Usage
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/yourusername/green-energy-transition.git](https://github.com/yourusername/green-energy-transition.git)
-    cd green-energy-transition
-    ```
-
-2.  **Install dependencies:**
-    It is recommended to use a virtual environment.
-    ```bash
-    pip install pandas numpy matplotlib statsmodels wbgapi
-    ```
-
-3.  **Run the Analysis:**
-    Open the Jupyter Notebook and run all cells.
-    ```bash
-    jupyter notebook datasociety_finalproject_260113.ipynb
-    ```
-    *Note: The notebook fetches data directly from remote URLs and APIs. An active internet connection is required.*
-
 ## 📈 Methodology
 The code performs the following steps:
 1.  **Data Ingestion:** Fetches live data from OWID GitHub repositories and the World Bank API.
