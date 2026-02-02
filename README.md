@@ -1,7 +1,7 @@
 # Green Energy Transition & Economic Growth
 
 **Authors:** Peter Gustafson & João Domingos  
-**Course:** Data and Society
+**Course:** Data and Society  
 **Institution:** Malmö University, Dept. of Computer Science and Media Technology  
 **Date:** January 2026  
 
